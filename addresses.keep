@@ -1,0 +1,5 @@
+AMR=AMR.txt
+ENG=BR.txt
+MGIZA_SCRIPT=../../../mgiza/mgizapp/scripts
+MGIZA_BIN=../../../mgiza/mgizapp/bin/
+
